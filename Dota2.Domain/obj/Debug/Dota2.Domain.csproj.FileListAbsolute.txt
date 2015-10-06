@@ -1,0 +1,10 @@
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\Domains\bin\Debug\NLog.config
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\Domains\bin\Debug\Dota2.Domain.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\Domains\bin\Debug\Dota2.Domain.pdb
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\Domains\bin\Debug\Dota2.Utilities.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\Domains\bin\Debug\NLog.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\Domains\bin\Debug\Dota2.Utilities.pdb
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\Domains\bin\Debug\NLog.xml
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\Domains\obj\Debug\Dota2.Domain.csprojResolveAssemblyReference.cache
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\Domains\obj\Debug\Dota2.Domain.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\Domains\obj\Debug\Dota2.Domain.pdb

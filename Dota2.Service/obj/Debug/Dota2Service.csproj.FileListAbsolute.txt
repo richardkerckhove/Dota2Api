@@ -1,0 +1,6 @@
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\WebApplication1\obj\Debug\Dota2Service.csprojResolveAssemblyReference.cache
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\WebApplication1\bin\WebApplication1.dll.config
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\WebApplication1\bin\WebApplication1.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\WebApplication1\bin\WebApplication1.pdb
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\WebApplication1\obj\Debug\WebApplication1.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\WebApplication1\obj\Debug\WebApplication1.pdb

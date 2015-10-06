@@ -1,0 +1,14 @@
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\bin\Debug\NLog.config
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\bin\Debug\Dota2.Manager.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\bin\Debug\Dota2.Manager.pdb
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\bin\Debug\Dota2.Domain.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\bin\Debug\Dota2.Transport.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\bin\Debug\Dota2.Utilities.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\bin\Debug\NLog.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\bin\Debug\Dota2.Domain.pdb
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\bin\Debug\Dota2.Transport.pdb
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\bin\Debug\Dota2.Utilities.pdb
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\bin\Debug\NLog.xml
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\obj\Debug\Dota2.Manager.csprojResolveAssemblyReference.cache
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\obj\Debug\Dota2.Manager.dll
+c:\Users\Rick\documents\visual studio 2013\Projects\Dota2Api\ClassLibrary1\obj\Debug\Dota2.Manager.pdb
